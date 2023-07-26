@@ -9,3 +9,5 @@ vless://2c7617f8-9d74-4453-8743-6ba54dd8c106@104.22.13.192:443?encryption=none&s
 vless://2c7617f8-9d74-4453-8743-6ba54dd8c106@104.24.185.137:443?encryption=none&security=tls&sni=vr.amparhizgar.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vr.amparhizgar.workers.dev&path=%2F%3Fed%3D2048#worker_MTN_IRCF
 
 vless://2c7617f8-9d74-4453-8743-6ba54dd8c106@104.27.62.243:443?encryption=none&security=tls&sni=vr.amparhizgar.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vr.amparhizgar.workers.dev&path=%2F%3Fed%3D2048#worker_MTN_IRCF
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImdvZXN0b05ZIiwNCiAgImFkZCI6ICIyMDMuMjMuMTA2LjE5NSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxYTg0ZWY3Yi1iODc1LTQ5MTUtZTMyMy1mZGMyN2YxOTJlZTIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInYuaXRnb2VzdG9ueS5jbGljayIsDQogICJwYXRoIjogIi9hbWlyIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInYuaXRnb2VzdG9ueS5jbGljayIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImNocm9tZSINCn0=
